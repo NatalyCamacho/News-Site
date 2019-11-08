@@ -1,2 +1,2 @@
 News Site
-See the working site here: newsgridsi.netlify.com
+See the working site here: https://newsgridsi.netlify.com/
